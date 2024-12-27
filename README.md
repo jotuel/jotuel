@@ -7,5 +7,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: https://joonastuomi.me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: writing this was a pain
+- ⚡ Fun fact: jotu is truncation of my given and family name, el is just a postfix spanish for man.
 
