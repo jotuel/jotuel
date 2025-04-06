@@ -6,3 +6,4 @@
 - ⚡ Boring fact: jotu is truncation of my given and family name, el is spanish for man. But its a post-, instead of the usual prefix. Fun.
 
 ## Jank jank janky jank
+I wish I had more to say. But not at this time.
