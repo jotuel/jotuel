@@ -1,2 +1,2 @@
-- 🔭 I’m currently looking for an internship to complete my studies at Hive.
+- 🔭 I’m currently on the lookout for an internship.
 - 📫 How to reach me: mail@joonastuomi.fi
