@@ -1,2 +1,1 @@
-- 🔭 I’m currently on the lookout for an internship.
-- 📫 How to reach me: mail@joonastuomi.fi
+A chill open source maintainer from Finland. ❄️
