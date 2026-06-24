@@ -1,4 +1,4 @@
-A chill open source maintainer from Finland. ❄️
+A chill open source maintainer from Finland. 🇫🇮
 
 ### I prefer: 
 
