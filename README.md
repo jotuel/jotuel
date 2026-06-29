@@ -2,7 +2,8 @@ A chill open source maintainer from Finland. 🇫🇮
 
 ### I prefer: 
 
-- Rust 🦀 
+- Rust 🦀
+- Gleam 🌟
 - Linux 🐧
 - OSS 📖
 - Fast ⚡
