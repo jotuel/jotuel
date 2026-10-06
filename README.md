@@ -1,5 +1,3 @@
-A chill open source maintainer from Finland. 🇫🇮
-
 ### I prefer: 
 
 Rust 🦀, Gleam 🌟, Linux 🐧, FLOSS 📖, Fast ⚡, Efficient 🍃, Durable 🔩, Tolerance 🏳️‍🌈 & Empathy 💖
